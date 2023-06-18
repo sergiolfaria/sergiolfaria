@@ -1,5 +1,5 @@
 
-# 💻 Tecnologias:
+# 🌐Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sérgio-lopes/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](sergioanalisedesistemas@gmail.com)  
 
 # 💻 Tecnologias:
